@@ -4,8 +4,6 @@ title: Política de privacidade
 permalink: /politica-de-privacidade/
 ---
 
-# POLÍTICA DE PRIVACIDADE
-
 ## Plataforma Callma
 
 O endereço eletrônico www.callma.com.br (“Site”) é propriedade de CALLMA SERVIÇOS DIGITAIS LTDA. (“Callma”), pessoa jurídica de direito privado, inscrita no CNPJ sob o nº 00.000.000/0001-00, com sede na Rua Visconde do Rio Branco, nº 1488 - 10º andar, salas 1001/1002/1003/1004 e térreo, Centro, CEP:81070-000, - Curitiba - Paraná . O acesso e o uso deste Site estão sujeitos a esta “Política de Privacidade” e aos “Termos e Condições de Uso” (“Termo de Uso”), por isso, qualquer pessoa, física ou jurídica (“Usuário”), que acessar e usar este Site deve ler na íntegra ambos instrumentos.
