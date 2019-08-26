@@ -4,7 +4,7 @@ title: Como funciona
 permalink: /como-funciona/
 ---
 
-# PARA PACIENTES
+## PARA PACIENTES
 
 1) Baixe o app e escolha um dos nossos serviços.
 
@@ -12,7 +12,7 @@ permalink: /como-funciona/
 
 3) Receba um dos nossos incríveis profissionais na sua casa.
 
-# PARA PROFISSIONAIS
+## PARA PROFISSIONAIS
 
 1) TRABALHE A HORA QUE QUISER
 
