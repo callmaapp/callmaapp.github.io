@@ -17,8 +17,9 @@ title: Callma
 email: appcallma@gmail.com
 author: Setbox Serviços Digitais
 description: >- # this means to ignore newlines until "baseurl:"
-  Encontre um profissional da saúde na sua cidade!
-  Consulte opiniões de pacientes, pergunte a especialistas em saúde e agende uma consulta online agora.
+  Encontre um profissional da saúde na sua região.
+  Atendimento domiciliar ou em consultório.
+  Consulte opiniões de pacientes e agende uma consulta online agora.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: callmaapp
